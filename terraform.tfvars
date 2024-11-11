@@ -1,0 +1,6 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone = "us-east-1a"
+env_prefix = "dev"
+instance_type = "t2.micro"
+my_public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIymvOiqQ4tAe2eIATgJkBLQonrolcOtxIddRajuZF67 tillettc@hotmail.com"
